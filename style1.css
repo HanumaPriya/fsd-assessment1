@@ -1,0 +1,11 @@
+/*.container{
+    display:flex;
+    flex-wrap:wrap;
+}*/
+.container{
+    background-color:rgb(238, 224, 224);
+}
+.card{
+    margin:auto;
+    border-style:inset;
+}
